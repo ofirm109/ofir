@@ -42,7 +42,7 @@ small {
 }
 
 .mefosesim:before {
-    content: "מחולל משחקים";
+    content: "The Ghost";
     font-family: 'Rubik', sans-serif;
     font-size: 30pt;
 }
@@ -54,25 +54,25 @@ small {
 }
 
 .bentobox:before {
-    content: "אתר אינטרנט";
+    content: "קומיקס אינטראקטיבי";
     font-family: 'Rubik', sans-serif;
     font-size: 30pt;
 }
 
 .drago:before {
-    content: "משחק למידה";
+    content: "מחולל משחקים";
     font-family: 'Rubik', sans-serif;
     font-size: 30pt;
 }
 
 .myGrafic:before {
-    content: "גרפיקה ממוחשב";
+    content: "אתר אינטרנט";
     font-family: 'Rubik', sans-serif;
     font-size: 30pt;
 }
 
 .video:before {
-    content: "עריכת וידאו";
+    content: "Dragonite משחק";
     font-family: 'Rubik', sans-serif;
     font-size: 30pt;
 }
@@ -93,4 +93,13 @@ iframe {
 #myAboutImage2 {
     width: 100%;
     height: 100%;
+}
+.portfolio .portfolio-item .portfolio-item-caption{
+    margin-top:-72%;
+}
+.portfolio-item1{
+    position: relative;
+    display: block;
+    max-width: 25rem;
+    margin-bottom: 15px;
 }
