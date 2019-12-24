@@ -102,7 +102,7 @@ iframe {
 }
 @media (min-width: 570px){
     .portfolio .portfolio-item .portfolio-item-caption{
-    margin-top:-72% !important;
+    //margin-top:-72% !important;
 }
 }
 
